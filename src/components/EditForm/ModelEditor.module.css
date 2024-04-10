@@ -1,0 +1,13 @@
+.editor {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 500px;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.editor > button {
+    width: 120px;
+}
